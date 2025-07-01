@@ -3,7 +3,7 @@
   <b>Senior Full Stack Developer | Python, Angular, Laravel Enthusiast | Open Source Contributor</b><br>
   <a href="mailto:xmodmor@proton.me">xmodmor@proton.me</a> • 
   <a href="https://linkedin.com/in/xmodmor">LinkedIn</a> • 
-  <a href="https://github.com/xmodmor">GitHub</a> • 
+  <a href="https://xmodmor.com">Website</a> • 
 </p>
 
 ---
